@@ -1,7 +1,7 @@
 {
   "ios": {
     "copy": [
-      { "source": "ios/**", "dest": "{{{projectName}}}/Libraries/ReactNativePermissions" }
+      { "source": "ios/*", "dest": "{{{projectName}}}/Libraries/ReactNativePermissions" }
     ],
     "pbxproj": {
        "addProject": [
